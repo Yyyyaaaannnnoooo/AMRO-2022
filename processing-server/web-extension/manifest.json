@@ -1,0 +1,20 @@
+{
+  "description": "Intercepting the Capturing of Data",
+  "manifest_version": 2,
+  "name": "intercepting http requests",
+  "version": "1.0",
+  "externally_connectable": {
+    "matches": ["*://*.youtube.com/*"]
+  },
+
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://*.youtube.com/*",
+    "*://i.ytimg.com/*"
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
