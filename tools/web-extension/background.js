@@ -53,7 +53,7 @@ function tamper_request_listener(e) {
           }
           // if there is the wish to send all the log events
           // un comment the below and remove break above
-          send_message()
+          // send_message()
         }
 
 
@@ -69,7 +69,7 @@ function tamper_header_listener(e) {
     console.log("///~~~ watchtime ~~~///")
     const json = get_params_from_url(e.url)
     // send_message(yt_ids.watchtime, json)
-    send_message()
+    // send_message()
     console.log(json)
     console.log('///~~~~~~~~~~~~///')
   }
@@ -77,7 +77,7 @@ function tamper_header_listener(e) {
     console.log("///~~~ pagead ~~~///")
     const json = get_params_from_url(e.url)
     // send_message(yt_ids.page_ad, json)
-    send_message()
+    // send_message()
     console.log(json);
     console.log('///~~~~~~~~~~~~///')
   }
