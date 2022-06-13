@@ -5,7 +5,7 @@
 ## Requirements
 
 1. [Processing 4](https://processing.org) with `Simple HTTP Server` and `MidiBus` libraries installed
-2. [VCV Rack 2](https://vcvrack.com/) with this [delay](https://library.vcvrack.com/AlrightDevices/Chronoblob2), this [reverb](https://library.vcvrack.com/Valley/Plateau) and [distortion](https://library.vcvrack.com/VultModulesFree/Debriatus)
+2. [VCV Rack 2](https://vcvrack.com/) with this [delay](https://library.vcvrack.com/AlrightDevices/Chronoblob2), this [reverb](https://library.vcvrack.com/Valley/Plateau), [distortion](https://library.vcvrack.com/VultModulesFree/Debriatus) and [sound module](https://library.vcvrack.com/squinkylabs-plug1/squinkylabs-super)
 3. [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ## Setting up MIDI on mac or Windows
