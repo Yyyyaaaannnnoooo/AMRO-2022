@@ -17,9 +17,10 @@ Follow this [instruction](https://help.ableton.com/hc/en-us/articles/209774225-S
 3. now you should have a list of all MIDI devices connected to the machine one of those should be called: `IAC Driver` that is your virtual MIDI device. Click on it!
 4. Set the device as online, if you want rename the MIDI interface.
 
-## Setting up MIDI on Windows
+## Setting up MIDI on Windows && linux
 
-Download [this](https://www.tobias-erichsen.de/software/loopmidi.html)
+Download [this](https://www.tobias-erichsen.de/software/loopmidi.html) for Windows
+For linux follow  this [tutorial](https://www.local-guru.net/blog/2018/11/10/connecting-linux-midi-programs-using-alsa-virtual-midi)
 
 ## Adding custom extensions to Firefox
 
